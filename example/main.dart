@@ -1,4 +1,4 @@
-import 'package:dart_package/dart_package.dart';
+import 'package:custom_text_lib/dart_package.dart';
 import 'package:flutter/material.dart';
 
 void main() {
